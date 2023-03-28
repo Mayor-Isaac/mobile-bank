@@ -14,7 +14,8 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   color: #444;
-  background-color: #f3f3f3;
+  /* background-color: #f3f3f3; */
+  background-color: royalblue;
   height: 100vh;
   padding: 2rem;
 }
